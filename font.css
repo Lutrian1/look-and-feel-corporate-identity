@@ -1,4 +1,10 @@
 section p{
-    font-size: 4vh;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5ch;
     margin: 4rem;
 }
+
+/* 1cm = ongeveer 38 pixels*/
+/* 2 tot 3 em is goeie regellengte met times new roman*/
+/* andere font veranderd grootte em*/
+
