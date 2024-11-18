@@ -1,10 +1,12 @@
 section p{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 5ch;
+    font-size: 5vmax;
     margin: 4rem;
 }
 
 /* 1cm = ongeveer 38 pixels*/
 /* 2 tot 3 em is goeie regellengte met times new roman*/
 /* andere font veranderd grootte em*/
+/* vw behoud eigenlijk constant dezelfde vormgeving/design. als iets op een bepaalde manier staat blijft het zo staan, en worden de letters groter, cqw doet praktisch hetzelfde*/
+/* vmax behoud constant dezelfde grootte tot een bepaalde scherm grootte.*/
 
